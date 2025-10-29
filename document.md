@@ -22,4 +22,4 @@ Para proteger os LEDs e evitar que queimem com os 5V do Arduino, usei **resistor
 
 
 ## Vídeo Demonstração
-Acesse [aqui](https://drive.google.com/file/d/1eDAKZyEeVeQqglGdRMmLu73SWlogGTrO/view?usp=sharing) o vídeo de demonstração do funcionamento do semáforo.
+Acesse [aqui](https://drive.google.com/file/d/1y1XD8JygKMtpFq9NIvzgQSdHnVZNfp8S/view?usp=sharing) o vídeo de demonstração do funcionamento do semáforo.
